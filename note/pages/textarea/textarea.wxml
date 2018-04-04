@@ -1,0 +1,18 @@
+<form bindsubmit="save_and_back" bindreset="deletetext">
+<view class='page' >
+  <view class='section_input' style='height:1050rpx;'>
+    <view class='title_'>
+        <input class='inputtitle' type='String' name='titles' bindinput="bindTextitle" maxlength='45'  placeholder='please input you title' ></input>
+    </view>
+
+    <view class='section_textarea'>
+        <textarea class='textarea' name='texts' placeholder='please input you want to save' style='height:850rpx;'></textarea>
+    </view>
+  </view>
+
+  <view class='section_button'>
+    <button class='button_2'  form-type='submit'>save and back</button>
+    <button class='button_2'  form-type='reset'>delete</button>
+  </view>
+</view>
+</form>

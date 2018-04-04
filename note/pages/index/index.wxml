@@ -1,0 +1,4 @@
+<view class='section'>
+    <view class='section_title'>please make your note</view>
+    <button class='button_1' hover-class='button_11' bindtap='tap'>+ new note</button>
+</view>

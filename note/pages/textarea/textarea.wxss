@@ -1,0 +1,42 @@
+.page{
+  background-color:  #F8F8F8;
+}
+.inputtitle{
+  background-color: white;
+}
+.title_{
+  margin-top: .77em;
+  margin-bottom: .3em;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: black;
+  font-size: 16px;
+}
+.section_textarea{
+  position: relative;
+  margin-top: .77em;
+  margin-bottom: .3em;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #FFFFFF;
+  line-height: 1.4;
+  font-size: 15px;
+}
+.textarea{
+  width: 100%;
+  height: 370rpx;
+}
+.section_input{
+  display: flex;
+  align-content: space-around;
+  flex-direction: column;
+  justify-content: center;
+}
+.section_button{
+  display: flex;
+  flex-direction: row;
+}
+.button_2{
+  height: 100rpx;
+  width: 50%;
+}

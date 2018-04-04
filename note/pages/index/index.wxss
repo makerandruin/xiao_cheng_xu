@@ -1,0 +1,20 @@
+.section_title{
+  height: 100rpx;
+  size: 64rpx;
+  display: flex;
+  flex-direction:row; 
+  justify-content: center;
+  align-content: space-around;
+}
+/*按钮new note静态样式*/
+.button_1{
+  height: 70rpx;
+  width: 100%;
+  background-color: green;
+}
+/*按钮new note点击样式*/
+.button_11{
+  height: 70rpx;
+  width: 100%;
+  background-color: greenyellow;
+}
